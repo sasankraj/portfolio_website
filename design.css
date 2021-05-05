@@ -1,0 +1,155 @@
+.headerSection {
+    font-family: sans-serif, serif;
+    font-variant-caps: titling-caps;
+    color: white;
+}
+
+body {
+    background-image: url("background2.gif");
+    width: auto;
+    background-repeat: repeat-x;
+    background-size: 600px;
+    background-color: paleturquoise;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.nav_bar {
+    text-align-last: right;
+    padding-top: 10px;
+    padding-right: 50px;    
+}
+
+a {
+    font-size: 20px;
+    font-family: sans-serif, serif;
+    font-variant-caps: titling-caps;
+    color: white;
+    padding-inline-start: 10px;
+}
+
+#CLI, #UTLAPP, #PWEB, #mail, #linkedin{
+    color: red;
+}
+
+#bodyMain {
+    font-family: sans-serif, serif;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 48px;
+    padding-top: 20px;
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+#about {
+    font-size: 36px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+h1 {
+    font-family: sans-serif, serif;
+    font-weight: bolder;
+    font-size: 48px;
+    margin: 5%;
+}
+
+h2 {
+    font-family: sans-serif, serif;
+    font-weight: bolder;
+    font-size: 36px;
+    margin: 5%;
+}
+
+h3 {
+    font-family:'Times New Roman', Times, serif;
+    padding: 5, 0, 0, 0;
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+p, ol {
+    padding: 10px, 10px, 10px, 10px;
+    font-size: 18px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5, 0, 0, 0;
+    margin: 1%;
+}
+
+
+.textSection, .skillSet, .contactInfo, .projectsList, #inner, #inner2{
+    padding: 10px, 10px, 10px, 10px;
+    font-size: 24px;
+    font-family: sans-serif;
+    margin: 1%;
+}
+.footer {
+    font-size: 16px;
+    font-family: sans-serif;
+    text-align: right;
+    margin-right:auto;
+}
+#contact1, #contact2 {
+    padding: 10px, 10px, 10px, 10px;
+    font-size: 24px;
+    font-family: 'Segoe UI';
+    margin: 1%;
+    justify-content: center;
+    text-align: center;
+}
+
+.mySkills {
+    box-sizing: border-box;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right:auto;
+    padding-left: 15px;
+}
+
+.container {
+    width: 55%;
+    background-color: #ddd;
+    border-radius: 0px;
+    padding-left: 1px;
+}
+
+
+.skills_C {
+    width: 90%; 
+    background-color: violet;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.skills_java {
+    width: 80%; 
+    background-color: #8196F3;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.skills_sql {
+    width: 80%; 
+    background-color: #f44336;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.skills_js {
+    width: 75%; 
+    background-color: #00ff00;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.skills_python {
+    width: 80%; 
+    background-color: yellow;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
